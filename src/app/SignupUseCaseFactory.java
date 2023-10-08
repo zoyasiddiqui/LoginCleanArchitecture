@@ -1,7 +1,7 @@
 package app;
 
 import data_access.FileUserDataAccessObject;
-import data_access.UserSignupDataAccessInterface;
+import use_case.UserSignupDataAccessInterface;
 import entity.CommonUserFactory;
 import entity.UserFactory;
 import interface_adapter.*;
